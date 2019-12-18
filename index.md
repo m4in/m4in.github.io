@@ -28,7 +28,10 @@
 [Time](https://time.org/)
 [Stest](https://speedtest.net/)
 [Ename](https://my.easyname.at/)
-[Dpgs](https://my.droppages.com/account):[Pub1](https://droppages.com/)
+[Dpps](https://my.droppages.com/account):[Pub1](https://droppages.com/)
+[Gh](https://github.com/):[m4in](https://github.com/m4in/m4in.github.io)
+[Tgrm](https://web.telegram.org/)
+[Wtsp](https://web.whatsapp.com/)
 
 **Shop**
 [Amz](https://amazon.de/)
