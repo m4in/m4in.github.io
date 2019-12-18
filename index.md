@@ -45,6 +45,7 @@
 [Inbox](https://wepaste.es/cantdroppages):[Zdoc](https://writer.zohopublic.com/writer/published/eb4ko6d0e533ec16d40ff8fb4a80bf7145e95):/0/:/sqrt/
 [Dpgs](https://my.droppages.com/account):[Pub2](https://droppages.com/)
 [Mdown](https://daringfireball.net/projects/markdown/syntax)
-[Self](https://cant.droppages.com/)
+[Self:gh.io](https://m4in.github.io/)
+[Self:dp.com](https://cant.droppages.com/)
 
 <!-- vim: set syn=markdown fdm=marker: -->
