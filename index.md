@@ -50,5 +50,6 @@
 [Mdown](https://daringfireball.net/projects/markdown/syntax)
 [Self:gh.io](https://m4in.github.io/)
 [Self:dp.com](https://cant.droppages.com/)
+[Self:archive](https://m4in.github.io/archive/index.html)
 
 <!-- vim: set syn=markdown fdm=marker: -->
