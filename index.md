@@ -41,8 +41,7 @@
 
 
 **Research**
-[wp-en](https://en.wikipedia.org/)
-[wp-de](https://de.wikipedia.org/)
+[Wipia-EN](https://en.wikipedia.org/)/[DE](https://de.wikipedia.org/)
 [Altto](https://alternativeto.net/)
 [Slant](https://slant.co/)
 
