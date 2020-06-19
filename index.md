@@ -54,4 +54,7 @@
 [Self:archive](https://m4in.github.io/archive/index.html)
 [Bb:m2in](https://m2in.bitbucket.io/):[src](https://bitbucket.org/m2in/m2in.bitbucket.io/src/master/)
 
+[lcl](navigator.clipboard.writeText('file:///home/0/0/0.html')) | 
+[is](https://m4in.github.io/is/)
+
 <!-- vim: set syn=markdown fdm=marker: -->
